@@ -1,5 +1,9 @@
 # 💫 About Me:
-Full Stack WordPress Developer | Custom Theme Specialist
+Full Stack WordPress Developer | Custom Theme Specialist | PHP Developer
+
+React Js | Next Js | Tailwindcss
+
+Solidity | Smart Contract | ERC720 | ERC 721
 
 
 ## 🌐 Socials:
