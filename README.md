@@ -1,5 +1,23 @@
 # 💫 About Me:
-Full Stack WordPress Developer | Custom Theme Specialist | PHP Developer
+
+Full Stack Web Developer | WordPress | React | NextJs 
+Seasoned WordPress/React Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "front-end".
+
+Skills Set:
+
+✅ HTML, CSS, Sass, Bootstrap, Tailwind CSS, MUI, JavaScript, jQuery , Ajax.
+✅ Shopify, Bigcomerece
+✅ PHP, ReactJs, NextJs, GraphQL , Apollo Client
+✅ Prisma , MongoDB , PostgreSQL, SQLite, MySQL
+
+WordPress Services :
+✅ Custom Theme Development ( XD/Figma/ to WordPress )
+✅ WooCommerce, Multi-Vendor, Booking System.
+✅ Elementor, Visual Composer, ACF, Yoast
+✅ WordPress speed & performance optimization, troubleshooting issues & fixes.
+✅ Backup & Migration to a different hosting
+
+If you’re looking to take your website to the next level, let’s talk about your project
 
 React Js | Next Js | Tailwindcss
 
