@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 Full Stack Web Developer | WordPress | React | NextJs 
+
 Seasoned WordPress/React Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "front-end".
 
 Skills Set:
@@ -9,8 +10,10 @@ Skills Set:
 ✅ Shopify, Bigcomerece
 ✅ PHP, ReactJs, NextJs, GraphQL , Apollo Client
 ✅ Prisma , MongoDB , PostgreSQL, SQLite, MySQL
+✅ Blockchain ,Solidity | Smart Contract | ERC720 | ERC 721
 
 WordPress Services :
+
 ✅ Custom Theme Development ( XD/Figma/ to WordPress )
 ✅ WooCommerce, Multi-Vendor, Booking System.
 ✅ Elementor, Visual Composer, ACF, Yoast
@@ -19,9 +22,9 @@ WordPress Services :
 
 If you’re looking to take your website to the next level, let’s talk about your project
 
-React Js | Next Js | Tailwindcss
 
-Solidity | Smart Contract | ERC720 | ERC 721
+
+
 
 
 ## 🌐 Socials:
