@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Mufaqar :
 
 Full Stack Web Developer | WordPress | React | NextJs 
 
