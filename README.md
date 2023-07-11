@@ -1,6 +1,6 @@
-# 💫 Mufaqar :
+# 💫 Mufaqar 
 
-Full Stack Web Developer | WordPress | React | NextJs 
+Full Stack Web Developer | WordPress | React | NextJs | Tailwindcss 
 
 Seasoned WordPress/React Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "front-end".
 
