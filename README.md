@@ -1,27 +1,23 @@
 # 💫 Mufaqar 
 
-Full Stack Web Developer | WordPress | React | NextJs | Tailwindcss 
+Full Stack MERN Developer | WordPress | React | NextJs | Tailwind
 
-Seasoned WordPress/React Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "front-end".
+Seasoned ReactJs/WordPress/PHP Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "MERN".
 
 Skills Set:
+✅ Frontend: React, Redux, HTML5, JavaScript ES6+, CSS3, Sass, Bootstrap, Tailwind CSS, MUI
+✅ Deployment: Heroku, AWS, Firebase, cPanel
+✅ Backend: Node.js, Express.js, ReactJs, NextJs, GraphQL , Apollo Client
+✅ Database: MongoDB, MySQL, SQL
 
-✅ HTML, CSS, Sass, Bootstrap, Tailwind CSS, MUI, JavaScript, jQuery , Ajax.
-✅ Shopify, Bigcomerece
-✅ PHP, ReactJs, NextJs, GraphQL , Apollo Client
-✅ Prisma , MongoDB , PostgreSQL, SQLite, MySQL
-✅ Blockchain ,Solidity | Smart Contract | ERC720 | ERC 721
-
-WordPress Services :
-
+WordPress Experties :
 ✅ Custom Theme Development ( XD/Figma/ to WordPress )
 ✅ WooCommerce, Multi-Vendor, Booking System.
 ✅ Elementor, Visual Composer, ACF, Yoast
 ✅ WordPress speed & performance optimization, troubleshooting issues & fixes.
 ✅ Backup & Migration to a different hosting
 
-If you’re looking to take your website to the next level, let’s talk about your project
-
+If you’re looking to take your website to the next level, let’s talk about your project?
 
 
 
