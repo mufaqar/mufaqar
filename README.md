@@ -5,7 +5,7 @@ Full Stack MERN Developer | PHP| WordPress | React | NextJs | Tailwind
 Seasoned ReactJs/WordPress/PHP Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "MERN".
 
 Skills Set:
-✅ Frontend: React, Redux, HTML5, JavaScript ES6+, CSS3, Sass, Bootstrap, Tailwind CSS, MUI
+✅ Frontend: React, Redux, HTML5, JavaScript ES6+, CSS3, SASS, Bootstrap, Tailwind CSS, MUI
 ✅ Deployment: Heroku, AWS, Firebase, cPanel
 ✅ Backend: Node.js, Express.js, ReactJs, NextJs, GraphQL , Apollo Client
 ✅ Database: MongoDB, MySQL, SQL
