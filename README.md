@@ -1,6 +1,6 @@
 # 💫 Mufaqar 
 
-Full Stack MERN Developer | PHP| WordPress | React | NextJs | Tailwind
+Full Stack MERN Developer | PHP| WordPress | React | NextJs | Tailwind CSS 
 
 Seasoned ReactJs/WordPress/PHP Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "MERN".
 
