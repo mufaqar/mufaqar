@@ -6,7 +6,7 @@ Seasoned ReactJs/WordPress/PHP Developer with over a decade of experience buildi
 
 Skills Set:
 ✅ Frontend: React, Redux, HTML5, JavaScript ES6+, CSS3, SASS, Bootstrap, Tailwind CSS, MUI
-✅ Deployment: Heroku, AWS, Firebase, cPanel
+✅ Deployment: vercel,Heroku, AWS, Firebase, cPanel
 ✅ Backend: Node.js, Express.js, ReactJs, NextJs, GraphQL , Apollo Client
 ✅ Database: MongoDB, MySQL, SQL
 
