@@ -14,7 +14,7 @@ WordPress Experties :
 ✅ Custom Theme Development ( XD/Figma/ to WordPress)
 ✅ WooCommerce, Multi-Vendor, Booking System.
 ✅ Elementor, Visual Composer, ACF, Yoast
-✅ WordPress speed & performance optimization, troubleshooting issues & fixes.
+✅ WordPress speed & performance optimization, theme development 
 ✅ Backup & Migration to a different hosting
 
 If you’re looking to take your website to the next level, let’s talk about your project?
