@@ -17,7 +17,7 @@ WordPress Experties :
 ✅ WordPress speed & performance optimization, theme development 
 ✅ Backup & Migration to a different hosting
 
-If you’re looking to take your website to the next level, let’s talk about your project?
+If you’re looking to take your website to the next level, let’s talk about your project
 
 
 
