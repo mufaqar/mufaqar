@@ -8,7 +8,7 @@ Skills Set:
 ✅ Frontend: React, Redux, HTML5, JavaScript ES6+, CSS3, SASS, Bootstrap, Tailwind CSS, MUI
 ✅ Deployment: vercel,Heroku, AWS, Firebase, cPanel
 ✅ Backend: Node.js, Express.js, ReactJs, NextJs, GraphQL , Apollo Client
-✅ Database: MongoDB, MySQL, SQL
+✅ Database: MongoDB, MySQL, SQL 
 
 WordPress Experties :
 ✅ Custom Theme Development ( XD/Figma/ to WordPress)
