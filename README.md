@@ -11,7 +11,7 @@ Skills Set:
 ✅ Database: MongoDB, MySQL, SQL 
 
 WordPress Experties :
-✅ Custom Theme Development ( XD/Figma/ to WordPress)
+✅ Custom Theme Development & Plugin development ( XD/Figma/ to WordPress)
 ✅ WooCommerce, Multi-Vendor, Booking System.
 ✅ Elementor, Visual Composer, ACF, Yoast
 ✅ WordPress speed & performance optimization, theme development 
