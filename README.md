@@ -3,9 +3,9 @@
 Seasoned ReactJs/WordPress/PHP Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "MERN".
 
 Skills Set:
-✅ ReactJs, NextJs, TypeScript, Redux, HTML5, JavaScript ES6+, CSS3, Sass, Bootstrap, Tailwind CSS, MUI
-✅ Deployment: Heroku, AWS, Firebase, cPanel, Vercel , Netlify
-✅ Backend: Node.js, Express.js, ReactJs, NextJs, PHP
+✅ ReactJs, NextJs, TypeScript, Redux, HTML5, JavaScript ES6+, CSS3, Sass, Bootstrap, Tailwind CSS, MUI <br>
+✅ Deployment: Heroku, AWS, Firebase, cPanel, Vercel , Netlify<br>
+✅ Backend: Node.js, Express.js, ReactJs, NextJs, PHP<br>
 ✅ Database: MongoDB, MySQL, PostgreSQL
 
 WordPress Experties :
