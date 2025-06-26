@@ -1,23 +1,21 @@
 # 💫 Mufaqar 
 
-Full Stack MERN Developer | PHP| WordPress | React | NextJs | Tailwind CSS 
-
 Seasoned ReactJs/WordPress/PHP Developer with over a decade of experience building, launching, and managing complex websites also specialize in all things "MERN".
 
 Skills Set:
-✅ Frontend: React, Redux, HTML5, JavaScript ES6+, CSS3, SASS, Bootstrap, Tailwind CSS, MUI  
-✅ Deployment: vercel,Heroku, AWS, Firebase, cPanel
-✅ Backend: Node.js, Express.js, ReactJs, NextJs, GraphQL , Apollo Client
-✅ Database: MongoDB, MySQL, SQL 
+✅ ReactJs, NextJs, TypeScript, Redux, HTML5, JavaScript ES6+, CSS3, Sass, Bootstrap, Tailwind CSS, MUI
+✅ Deployment: Heroku, AWS, Firebase, cPanel, Vercel , Netlify
+✅ Backend: Node.js, Express.js, ReactJs, NextJs, PHP
+✅ Database: MongoDB, MySQL, PostgreSQL
 
 WordPress Experties :
-✅ Custom Theme Development & Plugin development ( XD/Figma/ to WordPress)
+✅ Custom Theme Development ( XD/Figma/ to WordPress )
 ✅ WooCommerce, Multi-Vendor, Booking System.
 ✅ Elementor, Visual Composer, ACF, Yoast
-✅ WordPress speed & performance optimization, theme development 
+✅ WordPress speed & performance optimization, troubleshooting issues & fixes.
 ✅ Backup & Migration to a different hosting
 
-If you’re looking to take your website to the next level, let’s talk about your project
+If you’re looking to take your website to the next level, let’s talk about your project?
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mufaqar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mufaqar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mufaqir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mufaqar/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mufaqar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1335943) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mufaqar) 
